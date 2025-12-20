@@ -1,4 +1,0 @@
-mini_shell
-mini_shell_debug.c
-out.txt
-sleep
